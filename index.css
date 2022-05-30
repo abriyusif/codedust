@@ -99,3 +99,25 @@ textarea{
     background-color:green;
     color:black;
 }
+.footerContainer{
+    background-color:grey;
+   
+    
+}
+.footerContainer ul li a{
+    text-decoration:none;
+    color: white;
+    
+}
+.footerContainer ul{
+    margin: 100px;
+}
+.footerContainer ul li{
+    list-style-type: none;
+    padding-top: 10px;
+}
+.footerContainer p{
+    padding-left: 50px;
+    padding-bottom: 30px;
+    color: #fff;
+}
